@@ -9,6 +9,7 @@ class Logger(Protocol):
     def log_error(self, message: str) -> None:
         ...
 
+
 class PipeClient(Protocol):
 
     def send_message(self, message: str) -> None:
