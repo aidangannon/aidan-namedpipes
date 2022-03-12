@@ -1,0 +1,6 @@
+﻿# RIDER AND PYCHARM
+/.idea
+
+# C# BUILD
+bin
+obj
